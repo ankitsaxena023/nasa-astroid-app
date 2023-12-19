@@ -1,8 +1,11 @@
-# React + Vite
+## Nasa-Astroid-App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### In this app you can find astroid details with its astroid id and get details like:
 
-Currently, two official plugins are available:
+1. Name of the astroid
+2. URL of the astroid for details from Official NASA website
+3. Is astroid is hazardous or not
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### In this app I used router for routing pages and context api for state management
+
+### I used axios for fetching data
