@@ -9,3 +9,5 @@
 ### In this app I used router for routing pages and context api for state management
 
 ### I used axios for fetching data
+
+### Tech Stacks I used : React.js, Tailwind css, React-router-dom, Context Api
