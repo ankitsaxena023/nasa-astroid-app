@@ -9,7 +9,7 @@ const Astroid = () => {
   console.log("id", id);
   const { astroidData, setAstroidData } = useContext(astroidContext);
 
-  const API_Key = "EaBzLDSiyzNKW61SXBrsKJ7oFQMMdlGM05SDbPGL";
+  const API_Key = "";
   const URL = `https://api.nasa.gov/neo/rest/v1/neo/${id}?api_key=${API_Key}`;
 
   const fetchIdData = async (url) => {
